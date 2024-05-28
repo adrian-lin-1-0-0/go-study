@@ -6,3 +6,4 @@
     - transaction
 - [unix domain socket](./unix_domain_socket/README.md)
 - [mmap](./mmap/README.md)
+- [redlock](https://github.com/adrian-lin-1-0-0/redlock)
