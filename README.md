@@ -10,7 +10,7 @@
 - [redlock](https://github.com/adrian-lin-1-0-0/redlock)
 - [assembler](https://github.com/adrian-lin-1-0-0/assembly-go)
 - [Linux 源碼分析](https://github.com/liexusong/linux-source-code-analyze/tree/master?tab=readme-ov-file)
-    - [v] [unix domain socket](https://github.com/liexusong/linux-source-code-analyze/blob/master/unix-domain-sockets.md)
+    - [x] [unix domain socket](https://github.com/liexusong/linux-source-code-analyze/blob/master/unix-domain-sockets.md)
     - [ ] zero copy
 
 
