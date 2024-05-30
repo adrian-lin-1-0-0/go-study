@@ -23,7 +23,7 @@ func main() {
 	signal.Notify(c, os.Interrupt, syscall.SIGTERM)
 	go func() {
 		<-c
-		os.Remove(sockFileName)
+		syscall.Unlink(sockFileName)
 		os.Exit(1)
 	}()
 

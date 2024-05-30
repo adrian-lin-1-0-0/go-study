@@ -1,4 +1,5 @@
 # Unix Domain Socket
+> https://troydhanson.github.io/network/Unix_domain_sockets.html
 
 `Unix domain socket`又叫`IPC`(inter-process communication)
 
