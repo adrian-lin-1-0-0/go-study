@@ -1,5 +1,5 @@
 # go-study
-> 一些讀書筆記
+> 一些讀書筆記; 有些內容是copilot幫我補上的,常常回頭看發現是有問題的...
 
 - [singleflight](./singleflight/README.md)
 - [clean architecture]
