@@ -1,9 +1,9 @@
 # Unix Domain Socket
 > https://troydhanson.github.io/network/Unix_domain_sockets.html
 
-`Unix domain socket`又叫`IPC`(inter-process communication)
+`Unix domain socket`
 
-比 `TCP` 和 `UDP` 更快，因為不需要網絡協議,拆包,組包,checksum等操作
+另外在k8s中,透過`UDS`比起走複雜的網路路由,會快許多
 
 ## Unix Domain Socket vs TCP Socket
 
