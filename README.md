@@ -9,6 +9,10 @@
 - [mmap](./mmap/README.md)
 - [redlock](https://github.com/adrian-lin-1-0-0/redlock)
 - [assembler](https://github.com/adrian-lin-1-0-0/assembly-go)
+
+- [Process Synchronization](./os/process_synchronization/README.md)
+    - [Peterson Algorithm](./os/process_synchronization/peterson/README.md)
+
 - [Linux 源碼分析](https://github.com/liexusong/linux-source-code-analyze/tree/master?tab=readme-ov-file)
     - [x] [unix domain socket](https://github.com/liexusong/linux-source-code-analyze/blob/master/unix-domain-sockets.md)
     - [ ] zero copy
