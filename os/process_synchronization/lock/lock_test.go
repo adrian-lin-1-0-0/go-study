@@ -43,7 +43,4 @@ func Test_Lock(t *testing.T) {
 	if num.v != n {
 		t.Errorf("num = %d; want %d", num.v, n)
 	}
-
-	mu := sync.Mutex{}
-	mu.Lock()
 }
