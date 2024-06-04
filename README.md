@@ -13,7 +13,7 @@
 - [Process Synchronization](./os/process_synchronization/README.md)
     - [Peterson Algorithm](./os/process_synchronization/peterson/README.md)
     - [Mutex Lock](./os/process_synchronization/lock/README.md)
-        - [ ]golang mutex 
+        - [ ] golang mutex
     - [Compare And Swap](./os/process_synchronization/compare_and_swap/README.md)
     - [Swap](./os/process_synchronization/swap/README.md)
     - [Test and Set](./os/process_synchronization/test_and_set/README.md)
