@@ -12,6 +12,9 @@
 
 - [Process Synchronization](./os/process_synchronization/README.md)
     - [Peterson Algorithm](./os/process_synchronization/peterson/README.md)
+    - [Mutex Lock](./os/process_synchronization/lock/README.md)
+    - [Swap](./os/process_synchronization/swap/README.md)
+    - [Test and Set](./os/process_synchronization/test_and_set/README.md)
 
 - [Linux 源碼分析](https://github.com/liexusong/linux-source-code-analyze/tree/master?tab=readme-ov-file)
     - [x] [unix domain socket](https://github.com/liexusong/linux-source-code-analyze/blob/master/unix-domain-sockets.md)
