@@ -17,6 +17,8 @@
     - [Compare And Swap](./os/process_synchronization/compare_and_swap/README.md)
     - [Swap](./os/process_synchronization/swap/README.md)
     - [Test and Set](./os/process_synchronization/test_and_set/README.md)
+- [ ] [Communicating Sequential Processes (CSP)](./communicating_sequential_processes/README.md)
+    - [ ] [Synchronous Communication](./communicating_sequential_processes/synchronous_communication/README.md)
 
 - [Linux 源碼分析](https://github.com/liexusong/linux-source-code-analyze/tree/master?tab=readme-ov-file)
     - [x] [unix domain socket](https://github.com/liexusong/linux-source-code-analyze/blob/master/unix-domain-sockets.md)
