@@ -17,6 +17,8 @@
     - [Compare And Swap](./os/process_synchronization/compare_and_swap/README.md)
     - [Swap](./os/process_synchronization/swap/README.md)
     - [Test and Set](./os/process_synchronization/test_and_set/README.md)
+    - [Semaphore](./os/process_synchronization/semaphore/README.md)
+        - [ ] [golang.org/x/sync/semaphore]
 - [ ] [Communicating Sequential Processes (CSP)](./communicating_sequential_processes/README.md)
     - [ ] [Synchronous Communication](./communicating_sequential_processes/synchronous_communication/README.md)
 
