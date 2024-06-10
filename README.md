@@ -19,6 +19,9 @@
     - [Test and Set](./os/process_synchronization/test_and_set/README.md)
     - [Semaphore](./os/process_synchronization/semaphore/README.md)
         - [ ] [golang.org/x/sync/semaphore]
+    - [Dining Philosophers Problem](./os/process_synchronization/dining_philosophers_problem/README.md)
+        - [ ] [Dijkstra's solution]
+        - [ ] [Chandy/Misra solution]
 - [ ] [Communicating Sequential Processes (CSP)](./communicating_sequential_processes/README.md)
     - [ ] [Synchronous Communication](./communicating_sequential_processes/synchronous_communication/README.md)
     - [Producter-Consumer Problem](./os/process_synchronization/semaphore/producer-consumer_problem/README.md)
