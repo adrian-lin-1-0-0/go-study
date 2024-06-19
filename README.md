@@ -18,6 +18,7 @@
 - [assembler](https://github.com/adrian-lin-1-0-0/assembly-go)
 
 - [Process Synchronization](./os/process_synchronization/README.md)
+    - [Deadlock](./os/process_synchronization/deadlock/README.md)
     - [Peterson Algorithm](./os/process_synchronization/peterson/README.md)
     - [Mutex Lock](./os/process_synchronization/lock/README.md)
         - [ ] golang mutex
@@ -33,7 +34,6 @@
     - [ ] [Synchronous Communication](./communicating_sequential_processes/synchronous_communication/README.md)
     - [Producter-Consumer Problem](./os/process_synchronization/semaphore/producer-consumer_problem/README.md)
     - [Monitor](./os/process_synchronization/monitor/README.md)
-
 - [Linux 源碼分析](https://github.com/liexusong/linux-source-code-analyze/tree/master?tab=readme-ov-file)
     - [x] [unix domain socket](https://github.com/liexusong/linux-source-code-analyze/blob/master/unix-domain-sockets.md)
     - [ ] zero copy
