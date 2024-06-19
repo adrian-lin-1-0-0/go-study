@@ -1,9 +1,16 @@
 # go-study
-> 一些讀書筆記; 有些內容是copilot幫我補上的,常常回頭看發現是有問題的...
+> OS的部分大部分有golang實現
 
+## golang
+- sync/atomic
+- golang.org/x/sync/semaphore
+
+## Pattern
 - [singleflight](./singleflight/README.md)
 - [clean architecture]
     - [transaction](./clean_architecture/README.md)
+
+## OS
 - [unix domain socket](./unix_domain_socket/README.md)
     - [http over unix domain socket](./unix_domain_socket/http_over_unix_socket/README.md)
 - [mmap](./mmap/README.md)
