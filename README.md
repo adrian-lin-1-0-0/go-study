@@ -4,6 +4,7 @@
 ## golang
 - sync/atomic
 - golang.org/x/sync/semaphore
+- [cmd/vet](./go/vet/README.md)
 
 ## Pattern
 - [singleflight](./singleflight/README.md)
