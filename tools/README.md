@@ -8,3 +8,9 @@
 
 - [caretta](https://github.com/groundcover-com/caretta)
     > Carreta leverages eBPF to efficiently map all service network interactions in a K8s cluster, and Grafana to query and visualize the collected data.
+
+- [pcstat](https://github.com/tobert/pcstat)
+    > Page Cache stat: get page cache stats for files on Linux
+
+- [cw](https://github.com/Freaky/cw)
+    > A Rust wc clone
